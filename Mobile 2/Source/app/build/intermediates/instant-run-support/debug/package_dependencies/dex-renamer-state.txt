@@ -1,0 +1,4 @@
+#Sat Mar 24 13:59:29 CDT 2018
+base.0=E\:\\WebAndMobileDevelopment\\Mobile_Lesson_2_SourceCode\\MyOrder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
